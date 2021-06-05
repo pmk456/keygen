@@ -1,6 +1,6 @@
 # Key Generator
 
-# Installation Using PiP
+# Installation Using PIP
 ```
 pip3 install python-keygen
 ```
