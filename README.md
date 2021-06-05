@@ -1,9 +1,13 @@
 # Key Generator
 
-# Installation
-
+# Installation Using PiP
 ```
 pip3 install python-keygen
+```
+# Using Source Code
+```
+git clone https://github.com/pmk456/keygen.git
+python3 setup.py install
 ```
 # Usage
 ### To Generate Key
